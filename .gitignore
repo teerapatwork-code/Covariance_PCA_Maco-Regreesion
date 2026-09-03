@@ -1,0 +1,16 @@
+# Personal Claude Code instructions — keep private
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Data (regenerated via /refresh-prices)
+data/
+
+# Generated analysis outputs
+analysis/output/
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
